@@ -2,7 +2,7 @@
 
 **Quantum-Inspired Local AI** — a from-scratch transformer architecture designed for sub-100MB deployment on CPU, with sub-millisecond per-token latency.
 
-> ⚠️ This repository is intentionally sparse. The project is under active development and the core implementation is proprietary. This README exists to document the research direction and confirm the project is real and in progress.
+> This repository is intentionally sparse. The project is under active development and the core implementation is proprietary. This README exists to document the research direction and confirm the project is real and in progress.
 
 ---
 
